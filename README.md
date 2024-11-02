@@ -1,16 +1,33 @@
-# star_wars_wiki
+# Star Wars Wiki
 
-A new Flutter project.
+Bem-vindo ao Star Wars Wiki! Este é o meu primeiro projeto de desenvolvimento, onde estou criando uma aplicação para testar a API de Star Wars.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+A Star Wars Wiki é uma aplicação que permite aos usuários visualizar e favoritar os filmes de Star Wars.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Por enquanto somente favoritar o filme.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+
+- Flutter
+- [API de Star Wars](https://swapi.dev/)
+
+## Como Executar
+
+1. Clone o repositório:
+  ```bash
+  git clone https://github.com/seu-usuario/star_wars_wiki.git
+  ```
+2. Navegue até o diretório do projeto:
+  ```bash
+  cd star_wars_wiki
+  ```
+3. Abra o arquivo `index.html` no seu navegador.
+
+## Contribuições
+
+Como este é o meu primeiro projeto, estou aberto a sugestões e contribuições. Sinta-se à vontade para abrir issues e pull requests.
+
