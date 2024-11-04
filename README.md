@@ -19,11 +19,11 @@ Por enquanto somente favoritar o filme.
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/Rysgothal/star_wars_wiki.git
+  git clone https://github.com/Rysgothal/StarWars-Wiki.git
   ```
 2. Navegue até o diretório do projeto:
   ```bash
-  cd star_wars_wiki
+  cd StarWars-Wiki
   ```
 3. Abra o arquivo `index.html` no seu navegador.
 
